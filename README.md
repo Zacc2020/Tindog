@@ -1,2 +1,1 @@
-# Tindog
-Dogs need lovin too... 
+TinDog Starting Files
